@@ -12,6 +12,7 @@ Made by  : Me (Nayaka Ghana Subrata)
 - Visual Studio Code (VSC)
 - Visual Studio (VS)
 - Another IDE for python
+- Internet connections
 
 # Install modul
 - pip3 install python-vlc

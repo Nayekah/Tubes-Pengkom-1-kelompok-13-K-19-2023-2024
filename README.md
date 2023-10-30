@@ -1,12 +1,11 @@
 # Tugas Besar Pengenalan Komputasi 2023-2024
 Ini adalah tugas besar pengenalan komputasi kelompok 13 K-19
-Made by  : Me (Nayaka Ghana Subrata)
 
 # Anggota  :
-1. Dimas Anggiat (16523052)
-2. Julian Benedict (16523178)
-3. Nayaka Ghana Subrata (19623031)
-4. Karol Yangqian Poetracahya (19623206)
+1. Dimas Anggiat (16523052) / Flowchart
+2. Julian Benedict (16523178) / Exploration
+3. Nayaka Ghana Subrata (19623031) / creator
+4. Karol Yangqian Poetracahya (19623206) / Problems decomposer
 
 # Requirements
 - Visual Studio Code (VSC)

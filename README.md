@@ -1,5 +1,5 @@
 # Tugas Besar Pengenalan Komputasi 2023-2024
-Ini adalah tugas besar pengenalan komputasi kelompok 13
+Ini adalah tugas besar pengenalan komputasi kelompok 13 K-19
 Made by  : Me (Nayaka Ghana Subrata)
 
 # Anggota  :

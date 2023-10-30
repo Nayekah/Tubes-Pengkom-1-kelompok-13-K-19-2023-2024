@@ -8,8 +8,9 @@ Ini adalah tugas besar pengenalan komputasi kelompok 13
 4. Karol Yangqian Poetracahya (19623206)
 
 # Requirements
-- Vs code
-- Pycharm (or other IDE for py)
+- Visual Studio Code (VSC)
+- Visual Studio (VS)
+- Another IDE for python
 
 # Install modul
 - pip3 install python-vlc
@@ -18,9 +19,4 @@ Ini adalah tugas besar pengenalan komputasi kelompok 13
 - pip 3 install youtube-dl
 
 # Penting
-Jika terjadi error saat running code, lakukan ini:
-1. Pergi ke Appdata
-2. Cari folder bernama 'youtube-dl'
-3. Tekan folder extractor
-4. Scroll ke bawah dan cari file bernama 'youtube'
-5. Replace file dengan yang ada di lampiran (file bernama youtube)
+Jangan lupa untuk membaca file 'README.txt' untuk menjalankan program dan mengantisipasi error pada program

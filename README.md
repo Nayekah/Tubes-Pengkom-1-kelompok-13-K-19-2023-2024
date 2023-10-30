@@ -1,5 +1,8 @@
-# Tubes-Pengkom-2023-2024 (Kelompok 13)
-Ini adalah tugas besar pengenalan komputasi
+# Tubes-Pengkom-2023-2024
+Ini adalah tugas besar pengenalan komputasi kelompok 13
+
+# Anggota  :
+
 
 # Requirements
 - Vs code

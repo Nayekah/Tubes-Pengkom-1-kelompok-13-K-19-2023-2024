@@ -2,7 +2,10 @@
 Ini adalah tugas besar pengenalan komputasi kelompok 13
 
 # Anggota  :
-
+1. Dimas Anggiat (16523052)
+2. Julian Benedict (16523178)
+3. Nayaka Ghana Subrata (19623031)
+4. Karol Yangqian Poetracahya (19623206)
 
 # Requirements
 - Vs code

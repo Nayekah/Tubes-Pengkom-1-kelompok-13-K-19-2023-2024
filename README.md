@@ -1,5 +1,6 @@
 # Tugas Besar Pengenalan Komputasi 2023-2024
 Ini adalah tugas besar pengenalan komputasi kelompok 13
+Made by  : Me (Nayaka Ghana Subrata)
 
 # Anggota  :
 1. Dimas Anggiat (16523052)

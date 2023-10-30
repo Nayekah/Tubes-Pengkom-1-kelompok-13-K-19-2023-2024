@@ -4,7 +4,7 @@ Ini adalah tugas besar pengenalan komputasi kelompok 13 K-19
 # Anggota  :
 1. Dimas Anggiat (16523052) / Flowchart
 2. Julian Benedict (16523178) / Exploration
-3. Nayaka Ghana Subrata (19623031) / creator
+3. Nayaka Ghana Subrata (19623031) / creator of the source code
 4. Karol Yangqian Poetracahya (19623206) / Problems decomposer
 
 # Requirements

@@ -1,4 +1,4 @@
-# Tugas Besar Pengenalan Komputasi 1 2023-2024
+# Tugas Besar 1 Pengenalan Komputasi 2023-2024
 Ini adalah tugas besar pengenalan komputasi 1 kelompok 13 K-19
 
 # Anggota  :

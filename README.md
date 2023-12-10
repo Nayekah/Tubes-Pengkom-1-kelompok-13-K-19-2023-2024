@@ -20,4 +20,4 @@ Ini adalah tugas besar pengenalan komputasi 1 kelompok 13 K-19
 - pip 3 install youtube-dl
 
 # Penting
-Jangan lupa untuk membaca file 'README.txt' untuk menjalankan program dan mengantisipasi error pada program
+Jangan lupa untuk membaca file 'README_Cara_menjalankan_kode.txt' untuk menjalankan program dan mengantisipasi error pada program

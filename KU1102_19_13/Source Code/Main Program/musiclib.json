@@ -1,0 +1,50 @@
+[
+    {
+        "NamaLagu": "The Weeknd - Is There Someone Else? (Audio)",
+        "GrupLagu": "The Weeknd",
+        "TahunLagu": 2022,
+        "GenreLagu": "Pop",
+        "PlayListLagu": "Wikdeis",
+        "LinkLagu": "https://www.youtube.com/watch?v=i4ZuseKFBF0"
+    },
+    {
+        "NamaLagu": "Metro Boomin, A$AP Rocky - Feel The Fiyaaaah (Visualizer) ft. Takeoff",
+        "GrupLagu": "Metro Boomin",
+        "TahunLagu": 2022,
+        "GenreLagu": "Pop",
+        "PlayListLagu": "Boom",
+        "LinkLagu": "https://www.youtube.com/watch?v=C3UXj2k7jHE"
+    },
+    {
+        "NamaLagu": "Bruno Mars - That\u2019s What I Like [Official Music Video]",
+        "GrupLagu": "Bruno Mars",
+        "TahunLagu": 2017,
+        "GenreLagu": "Pop",
+        "PlayListLagu": "Vibin",
+        "LinkLagu": "https://www.youtube.com/watch?v=PMivT7MJ41M"
+    },
+    {
+        "NamaLagu": "The Weeknd - Starboy (Audio) ft. Daft Punk",
+        "GrupLagu": "The Weeknd",
+        "TahunLagu": 2016,
+        "GenreLagu": "Pop",
+        "PlayListLagu": "Wikdeis",
+        "LinkLagu": "https://www.youtube.com/watch?v=Rif-RTvmmss"
+    },
+    {
+        "NamaLagu": "Katy Perry - Firework (Official Music Video)",
+        "GrupLagu": "Ado",
+        "TahunLagu": 2022,
+        "GenreLagu": "Jpop",
+        "PlayListLagu": "Vibin",
+        "LinkLagu": "https://www.youtube.com/watch?v=QGJuMBdaqIw"
+    },
+    {
+        "NamaLagu": "Coldplay - Viva La Vida (Official Video)",
+        "GrupLagu": "Coldplay",
+        "TahunLagu": 2008,
+        "GenreLagu": "Pop",
+        "PlayListLagu": "Nostalgia",
+        "LinkLagu": "https://www.youtube.com/watch?v=dvgZkm1xWPE"
+    }
+]

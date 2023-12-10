@@ -1,5 +1,5 @@
-# Tugas Besar Pengenalan Komputasi 2023-2024
-Ini adalah tugas besar pengenalan komputasi kelompok 13 K-19
+# Tugas Besar Pengenalan Komputasi 1 2023-2024
+Ini adalah tugas besar pengenalan komputasi 1 kelompok 13 K-19
 
 # Anggota  :
 1. Dimas Anggiat (16523052) / Flowchart
